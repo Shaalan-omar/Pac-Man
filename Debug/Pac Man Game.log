@@ -1,0 +1,19 @@
+﻿  game.cpp
+  ghosts.cpp
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\ghosts.cpp(9,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\ghosts.cpp(9,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\ghosts.cpp(82,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\ghosts.cpp(82,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  matrix.cpp
+  Moving_character.cpp
+  Pac Man Game.cpp
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\Pac Man Game.cpp(153,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\Pac Man Game.cpp(153,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pac_man.cpp
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\pac_man.cpp(8,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\pac_man.cpp(8,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  pellets.cpp
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\pellets.cpp(22,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\AUC\CS2\Project\Pac Man Game\Pac Man Game\pellets.cpp(22,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating Code...
+  Pac Man Game.vcxproj -> C:\AUC\CS2\Project\Pac Man Game\Debug\Pac Man Game.exe
